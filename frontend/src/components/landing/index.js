@@ -1,0 +1,9 @@
+export { HeroSection } from './HeroSection';
+export { StatsSection } from './StatsSection';
+export { HiringTicker } from './HiringTicker';
+export { VideoSection } from './VideoSection';
+export { FeaturesSection } from './FeaturesSection';
+export { TestimonialsSection } from './TestimonialsSection';
+export { PricingSection } from './PricingSection';
+export { FAQSection } from './FAQSection';
+export { CTASection } from './CTASection';
